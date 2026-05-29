@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Yaven</title>
-    <link>https://github.com/nprice4/yaven-releases</link>
-    <description>Yaven macOS app updates</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Yaven</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Fri, 29 May 2026 19:51:56 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v0.1/Yaven.dmg" length="48076684" type="application/octet-stream" sparkle:edSignature="KJ0Ea2bW4UZCvOdWw3qOiYPtSfXAnzNZQ5IfqQm5SsjyMvlEltO0kNfn+Pmd2bDcc5eIud+JI6OypcwLafzsBg=="/>
+        </item>
+    </channel>
 </rss>
