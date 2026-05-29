@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v0.1/Yaven.dmg" length="48076684" type="application/octet-stream" sparkle:edSignature="KJ0Ea2bW4UZCvOdWw3qOiYPtSfXAnzNZQ5IfqQm5SsjyMvlEltO0kNfn+Pmd2bDcc5eIud+JI6OypcwLafzsBg=="/>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v0.1/Yaven.dmg" length="48077151" type="application/octet-stream" sparkle:edSignature="Lyx1CfVee0IpqNuzQYDNDluQiWcrWEY92V4vEeDerYk3vznHpusGtFyBXW9GdXmVFVSROJQNRzHhwTX2xnrbBQ=="/>
         </item>
     </channel>
 </rss>
