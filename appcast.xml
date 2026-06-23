@@ -3,6 +3,14 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.6.4</title>
+            <pubDate>Tue, 23 Jun 2026 23:50:22 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.4/Yaven.dmg" length="48170001" type="application/octet-stream" sparkle:edSignature="b9SZg0VZUT1rxBlmwFAR3wBJJhFDEZ9NTVuD2FP6eD060b+mQN+HDOdQZSFZfLaY3mYhC6Xpz0gyGdYpOwSRBw=="/>
+        </item>
+        <item>
             <title>1.6.3</title>
             <pubDate>Tue, 23 Jun 2026 15:23:57 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.2/Yaven.dmg" length="48169952" type="application/octet-stream" sparkle:edSignature="PmKT82nePRnsJ+T/GgI6uMQUxPOV6oihtD1ApT2xvfzHWPRlItGw9mqnDn5aGdvTSjRPBKdnms1hDXXNZr7yCQ=="/>
-        </item>
-        <item>
-            <title>1.6.1</title>
-            <pubDate>Mon, 22 Jun 2026 22:48:53 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.1/Yaven.dmg" length="48273407" type="application/octet-stream" sparkle:edSignature="vF8mm3TaiNJC0k/jriHSwbZ8CDx8fZhBh3yjuUgARTdKhdw2Y2gAFwGQ205Q1RZonKs0/QIBHdFTuM9uq/8wAw=="/>
         </item>
     </channel>
 </rss>
