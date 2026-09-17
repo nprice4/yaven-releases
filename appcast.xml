@@ -3,6 +3,17 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.6.47</title>
+            <pubDate>Wed, 16 Sep 2026 23:05:56 -0400</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:criticalUpdate/>
+            <sparkle:minimumAutoupdateVersion>57</sparkle:minimumAutoupdateVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>57</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:shortVersionString>1.6.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.47/Yaven.dmg" length="88177189" type="application/octet-stream" sparkle:edSignature="vpyqjnMx6LCUryrEqkvw8v27q/JqaTy7IQU82NtCzTCLmkwkjcQu43AZbDvF1Vdq4q/UmN/ObAljHp3EaddxDw=="/>
+        </item>
+        <item>
             <title>1.6.46</title>
             <pubDate>Wed, 16 Sep 2026 00:26:06 -0400</pubDate>
             <sparkle:version>56</sparkle:version>
@@ -17,14 +28,6 @@
             <sparkle:shortVersionString>1.6.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.45/Yaven.dmg" length="87941279" type="application/octet-stream" sparkle:edSignature="wl1/12k6Z/5Lb1RoTtpGAahe0/jnBpv6uOP8UIVfktAz4Rp5q1hHCvvKLOrNfrqA+00tUkj7lSE9vrzXjq3RCQ=="/>
-        </item>
-        <item>
-            <title>1.6.44</title>
-            <pubDate>Wed, 09 Sep 2026 11:53:43 +0100</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.6.44</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.44/Yaven.dmg" length="87730984" type="application/octet-stream" sparkle:edSignature="+TLdPfZ+tsTk7Qgn91Pmst7vwvu/B7w5sy7520+S36/pJdVUgSREkaf4Wh7xs3g6VfUmoUMVYcbhQjd5YAibBw=="/>
         </item>
     </channel>
 </rss>
