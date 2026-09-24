@@ -3,6 +3,17 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.6.49</title>
+            <pubDate>Thu, 24 Sep 2026 11:29:05 -0400</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:criticalUpdate/>
+            <sparkle:minimumAutoupdateVersion>59</sparkle:minimumAutoupdateVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>59</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:shortVersionString>1.6.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.49/Yaven.dmg" length="89768654" type="application/octet-stream" sparkle:edSignature="Hi4ZnUkfxl6ttUYS487YXZsbzM9XaScuD6eSjI6piXGo/lJL3aOF7jHJk3iEMvqRWcdrumOhlb5iYLuCE7UrCA=="/>
+        </item>
+        <item>
             <title>1.6.48</title>
             <pubDate>Thu, 24 Sep 2026 00:33:26 -0400</pubDate>
             <sparkle:version>58</sparkle:version>
@@ -28,14 +39,6 @@
             <sparkle:shortVersionString>1.6.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.46/Yaven.dmg" length="88035421" type="application/octet-stream" sparkle:edSignature="xYhgIMV+hI4MBwTweqaIpeQ1uzxnQkSv8FOqQEH5cKFC35RXUG5pVRrZknwU7C/WSa5jAF3v1Qu6HHA+hf+4DA=="/>
-        </item>
-        <item>
-            <title>1.6.45</title>
-            <pubDate>Tue, 15 Sep 2026 15:14:25 -0400</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.6.45</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.45/Yaven.dmg" length="87941279" type="application/octet-stream" sparkle:edSignature="wl1/12k6Z/5Lb1RoTtpGAahe0/jnBpv6uOP8UIVfktAz4Rp5q1hHCvvKLOrNfrqA+00tUkj7lSE9vrzXjq3RCQ=="/>
         </item>
     </channel>
 </rss>
