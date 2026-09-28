@@ -3,6 +3,17 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.6.52</title>
+            <pubDate>Mon, 28 Sep 2026 16:47:10 -0400</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:criticalUpdate/>
+            <sparkle:minimumAutoupdateVersion>62</sparkle:minimumAutoupdateVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>62</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:shortVersionString>1.6.52</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.52/Yaven.dmg" length="90964123" type="application/octet-stream" sparkle:edSignature="YFnqAEybok86AF3fJzgll+8F4xCafLvCKkokWbdTlruTmtM7dnLswsQCpNzNvS/7Mbs7L+088NnnduNaoOagAQ=="/>
+        </item>
+        <item>
             <title>1.6.51</title>
             <pubDate>Sat, 26 Sep 2026 19:16:31 -0400</pubDate>
             <sparkle:version>61</sparkle:version>
