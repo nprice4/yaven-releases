@@ -6,8 +6,8 @@
             <title>1.6.53</title>
             <pubDate>Wed, 30 Sep 2026 15:28:25 -0400</pubDate>
             <sparkle:version>63</sparkle:version>
-            <sparkle:criticalUpdate/>
-            <sparkle:minimumAutoupdateVersion>63</sparkle:minimumAutoupdateVersion>
+            <sparkle:criticalUpdate sparkle:version="60"/>
+            <sparkle:minimumAutoupdateVersion>60</sparkle:minimumAutoupdateVersion>
             <sparkle:ignoreSkippedUpgradesBelowVersion>63</sparkle:ignoreSkippedUpgradesBelowVersion>
             <sparkle:shortVersionString>1.6.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
