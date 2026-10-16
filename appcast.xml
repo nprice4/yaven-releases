@@ -3,6 +3,20 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.7.9</title>
+            <pubDate>Thu, 15 Oct 2026 22:38:45 -0400</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:criticalUpdate sparkle:version="60"/>
+            <sparkle:minimumAutoupdateVersion>60</sparkle:minimumAutoupdateVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>74</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:shortVersionString>1.7.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.9/Yaven.dmg" length="102022840" type="application/octet-stream" sparkle:edSignature="pCHvcaz26C861RT70a2d0FAOv+WgCzZ3gZNEGJeU6LfUvHsaR6gi3KVPStZYXzx1ZCRqwEBNGjv4oKBIZyJyDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.9/Yaven74-61.delta" sparkle:deltaFrom="61" length="34449250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AwJ5ld/mji+imZFcZN87kys9nwvscE+L0dyn5R7vH6cLXWV/x3vJVO9jzeGKc4e1D+suAGMNjJmjF3b2YQM6BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.54</title>
             <pubDate>Fri, 02 Oct 2026 19:13:33 -0400</pubDate>
             <sparkle:version>64</sparkle:version>
@@ -50,7 +64,7 @@
             <sparkle:ignoreSkippedUpgradesBelowVersion>61</sparkle:ignoreSkippedUpgradesBelowVersion>
             <sparkle:shortVersionString>1.6.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.6.54/Yaven%202.dmg" length="90744405" type="application/octet-stream" sparkle:edSignature="BbUCQ+CRvPZRyhBPjDAPTs3oOU3frTuM5zNFtDCi5oX1rO96gIIQANJcIi64DQ87wp3f5bPExIi5Kro7oLUcAg=="/>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.9/Yaven%202.dmg" length="90744405" type="application/octet-stream" sparkle:edSignature="BbUCQ+CRvPZRyhBPjDAPTs3oOU3frTuM5zNFtDCi5oX1rO96gIIQANJcIi64DQ87wp3f5bPExIi5Kro7oLUcAg=="/>
         </item>
         <item>
             <title>1.6.50</title>
