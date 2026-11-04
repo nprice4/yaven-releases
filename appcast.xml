@@ -3,6 +3,17 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.7.24</title>
+            <pubDate>Tue, 03 Nov 2026 20:17:49 -0500</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:criticalUpdate sparkle:version="60"/>
+            <sparkle:minimumAutoupdateVersion>60</sparkle:minimumAutoupdateVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>90</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:shortVersionString>1.7.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.24/Yaven.dmg" length="114810769" type="application/octet-stream" sparkle:edSignature="B1XEqdtCexJNK8UMWIBai82Ebqx/sbf8KGv2efQoMOVAX0j8wCC7PNOAll0NwAUnN23bcV+KPByB9c67/NFfBQ=="/>
+        </item>
+        <item>
             <title>1.7.23.1</title>
             <pubDate>Tue, 03 Nov 2026 01:55:46 -0500</pubDate>
             <sparkle:version>89</sparkle:version>
@@ -34,17 +45,6 @@
             <sparkle:shortVersionString>1.7.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.22/Yaven.dmg" length="113804483" type="application/octet-stream" sparkle:edSignature="ajELL+nyWUOni7Usve/huFBd3kubNpEWXDwRGQF4gkz4PEM995LlkuHY0DGfYrL8KOoAXm7au3w0bBtqlHX1CQ=="/>
-        </item>
-        <item>
-            <title>1.7.21</title>
-            <pubDate>Thu, 29 Oct 2026 17:55:37 -0400</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:criticalUpdate sparkle:version="60"/>
-            <sparkle:minimumAutoupdateVersion>60</sparkle:minimumAutoupdateVersion>
-            <sparkle:ignoreSkippedUpgradesBelowVersion>86</sparkle:ignoreSkippedUpgradesBelowVersion>
-            <sparkle:shortVersionString>1.7.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.21/Yaven.dmg" length="111801686" type="application/octet-stream" sparkle:edSignature="z7I7ye1J1mfFnxe/7VyEPOni1IcnYFlHhnwMr/ldItoXnZqV1Sc+bWPE+DL0nmW9SiAulNDil4QVVK9ANKMCDA=="/>
         </item>
         <item>
             <title>1.6.52</title>
