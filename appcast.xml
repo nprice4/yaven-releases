@@ -3,6 +3,20 @@
     <channel>
         <title>Yaven</title>
         <item>
+            <title>1.7.33</title>
+            <pubDate>Mon, 23 Nov 2026 23:30:26 -0500</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:criticalUpdate sparkle:version="60"/>
+            <sparkle:minimumAutoupdateVersion>60</sparkle:minimumAutoupdateVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>101</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:shortVersionString>1.7.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.33/Yaven.dmg" length="125228495" type="application/octet-stream" sparkle:edSignature="myb1TmmyYGd2ik2yuw4852YavCYsk72g3FvvmqtQeLzyW9Iz7Nh5rGYjW5U2fs9xFxaqxP+aGk7o84BnQPNjCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.33/Yaven101-98.delta" sparkle:deltaFrom="98" length="28621934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V8PJjHe8oLy4cJNql65EW9a21pBfy82S3iIXy5bldjFJMwwxm3lMuPdnBe79vzhR4ZA5ViBCGUKf6OJglBetBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.32</title>
             <pubDate>Fri, 20 Nov 2026 13:33:38 -0500</pubDate>
             <sparkle:version>100</sparkle:version>
@@ -36,18 +50,7 @@
             <sparkle:ignoreSkippedUpgradesBelowVersion>98</sparkle:ignoreSkippedUpgradesBelowVersion>
             <sparkle:shortVersionString>1.7.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.32/Yaven%202.dmg" length="124137587" type="application/octet-stream" sparkle:edSignature="9DzKu7fVaO4nQHl+S5NHZANBkfHX49VaOrz/AdGz+5DbZ8OAa1n3hYhNcrZQ9I14aZgjNNnIBlu651cJh6cYCw=="/>
-        </item>
-        <item>
-            <title>1.7.30</title>
-            <pubDate>Sun, 15 Nov 2026 20:04:54 -0500</pubDate>
-            <sparkle:version>97</sparkle:version>
-            <sparkle:criticalUpdate sparkle:version="60"/>
-            <sparkle:minimumAutoupdateVersion>60</sparkle:minimumAutoupdateVersion>
-            <sparkle:ignoreSkippedUpgradesBelowVersion>97</sparkle:ignoreSkippedUpgradesBelowVersion>
-            <sparkle:shortVersionString>1.7.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.30/Yaven.dmg" length="124140103" type="application/octet-stream" sparkle:edSignature="xKgawrEsix2SGBlWSPWWsakUsHQkABzOjl+jkia7wZ71LA+M20tpVe1a88MxhegiyXH7/iSQDVdGkWXB450oDg=="/>
+            <enclosure url="https://github.com/nprice4/yaven-releases/releases/download/v1.7.33/Yaven%202.dmg" length="124137587" type="application/octet-stream" sparkle:edSignature="9DzKu7fVaO4nQHl+S5NHZANBkfHX49VaOrz/AdGz+5DbZ8OAa1n3hYhNcrZQ9I14aZgjNNnIBlu651cJh6cYCw=="/>
         </item>
         <item>
             <title>1.6.52</title>
